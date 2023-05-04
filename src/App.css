@@ -3,6 +3,10 @@
   color: white;
 }
 
+/* .solar {
+  display: flex;
+} */
+
 body {
   background: url(images/background.png);
 }
