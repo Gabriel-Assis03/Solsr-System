@@ -1,6 +1,6 @@
 .App {
-  text-align: center;
   color: white;
+  text-align: center;
 }
 
 /* .solar {
@@ -8,5 +8,5 @@
 } */
 
 body {
-  background: url(images/background.png);
+  background: url('images/background.png');
 }
