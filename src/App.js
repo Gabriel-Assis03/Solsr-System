@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import Header from './components/Header';
 import SolarSystem from './components/SolarSystem';
-import PlanetCard from './components/PlanetCard';
 
 class App extends React.Component {
   render() {
@@ -10,7 +9,6 @@ class App extends React.Component {
       <div className="App">
         <Header />
         <SolarSystem />
-        <PlanetCard planetName="Terra" planetImage="" />
         <p>Sistema Solar</p>
       </div>
     );
